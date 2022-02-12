@@ -1,3 +1,5 @@
 # HackNotts Git Workshop
 
-this is a change from secondary changes
+I teach you git
+
+this is a change from secondary changes, and also a change from main
